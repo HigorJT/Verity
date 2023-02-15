@@ -1,0 +1,11 @@
+{
+  "name": "avaliacaoTecnicaVerity",
+  "version": "1.0.0",
+  "description": "Automação web",
+  "main": "index.js",
+  "author": "Higor Jesus",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
